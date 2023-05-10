@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cristianrlf. I'm computer engineering student for UFBA and Computer Science student for Unifacs
+- 👋 Hi, I’m @cristianrlf. I'm computer engineering student for UFBA
 - 👀 I’m interested in Python, Java, Front-end like javascript, node.js, react. For now it's it.
 - 🌱 I’m currently learning c++, javascript
 - 💞️ I’m looking to collaborate on I don't know yet
